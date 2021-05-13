@@ -1,18 +1,23 @@
-# 小舞和她的小伙伴们按钮站 / MAIGIRLS-BUTTON
+# 咩咩按钮站 / MYEMIE-BUTTON
 
-![Version](https://img.shields.io/github/package-json/v/Cyame/MAIGirls-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Cyame/MAIGirls-button?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Cyame/MAIGirls-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
 
-README: **中文** | [日本語](https://github.com/Cyame/MAIGirls-button/blob/master/README.JA.md) | [English](https://github.com/Cyame/MAIGirls-button/blob/master/README.EN.md)
+README: **中文** | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
 
-> 还没有组合名所以姑且先这样叫吧！
+> 么耶咩咩咩的粉丝向声音按钮主页
 
-### 目前仍在维护中，未添加或修改原仓库内容。在发布前会取得各位授权，敬请期待！
+### 目前仍在维护中，未添加或修改原仓库内容。在发布前会取得授权，敬请期待！
 
-<!-- 项目主页： https://kanata.club -->
 
 相关链接:
+
+- [么耶咩咩咩 的 Bilibili频道](https://space.bilibili.com/2080163552)
+
+- [么耶咩咩咩 的 新浪微博](https://weibo.com/u/7601707550)
+
+- [么耶咩咩咩 的 Bilibili直播间](https://live.bilibili.com/23033773)
 
 - [Sakula小舞 的 Bilibili频道](https://space.bilibili.com/264161)
 
@@ -21,10 +26,6 @@ README: **中文** | [日本語](https://github.com/Cyame/MAIGirls-button/blob/m
 - [兰笛Saku 的 Bilibili频道](https://space.bilibili.com/381439252)
 
 - [兰笛Saku 的 新浪微博](https://weibo.com/u/7599721451)
-
-- [么耶咩咩咩 的 Bilibili频道](https://space.bilibili.com/2080163552)
-
-- [么耶咩咩咩 的 新浪微博](https://weibo.com/u/7601707550)
 
 - [鱼一YY 的 Bilibili频道](https://space.bilibili.com/1308967115)
 
@@ -46,7 +47,7 @@ README: **中文** | [日本語](https://github.com/Cyame/MAIGirls-button/blob/m
 
 如果您不知道如何直接参与GitHub开发，可以直接将素材或意见建议发送到[开发者邮箱](mailto:marlonxu1121@qq.com)，带上标题、内容以及您的ID（Bilibili.UID、微博ID等均可），贡献者名单将会有您的名字。
 
-当然您也可以发在 [Issues](https://github.com/Cyame/MAIGirls-button/issues) ，同样也请带上标题和内容。
+当然您也可以发在 [Issues](https://github.com/Cyame/myemie-button/issues) ，同样也请带上标题和内容。
 
 如果您可以进行开发，那么请Fork本项目进行修改，完成修改后在本项目中发起一个Pull Request，详细说明如下：
 
@@ -98,13 +99,13 @@ README: **中文** | [日本語](https://github.com/Cyame/MAIGirls-button/blob/m
 
 以下在GitHub参与过项目的各位
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=Cyame/MAIGirls-button)](https://github.com/Cyame/MAIGirls-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=Cyame/myemie-button)](https://github.com/Cyame/myemie-button/graphs/contributors)
 
 ## 协议
 
-本仓库遵循[GPU GPL-3.0](https://github.com/Cyame/MAIGirls-button/blob/master/LICENSE)协议。
+本仓库遵循[GPU GPL-3.0](https://github.com/Cyame/myemie-button/blob/master/LICENSE)协议。
 
-本项目仅为爱好者作品，如有侵权或其他不宜内容，请通过提交[Issues](https://github.com/Cyame/MAIGirls-button/issues)联系删除或调整。
+本项目仅为爱好者作品，如有侵权或其他不宜内容，请通过提交[Issues](https://github.com/Cyame/myemie-button/issues)联系删除或调整。
 
 ## 支持
 

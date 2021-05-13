@@ -13,29 +13,29 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'かなたんボタン',
+    title: '么耶咩咩咩按钮站',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: '天音かなたの音声ボタン 天音彼方语音按钮 Voice button of Amane Kanata'
+        content: '么耶咩咩咩の音声ボタン 么耶咩咩咩语音按钮 Voice button of myemie'
       },
       {
         hid: 'keywords',
         name: 'keywords',
         content:
-          'かなたんボタン,Kanata BUTTON,彼方碳按钮,hololive,Amane Kanata,天音かなた,かなた,かなたん,彼方,彼方碳,天哥,音妹,汤达人,语音按钮,ボイスボタン'
+          '咩老师,咩宝,咩咩咩,么耶咩咩咩,按钮站,语音按钮,ボイスボタン'
       },
-      { hid: 'og:site_name', property: 'og:site_name', content: 'かなたんボタン' },
+      { hid: 'og:site_name', property: 'og:site_name', content: '么耶咩咩咩按钮站' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://kanata.club' },
-      { hid: 'og:title', property: 'og:title', content: 'かなたんボタン' },
+      { hid: 'og:url', property: 'og:url', content: 'https://cyame.github.io/myemie-button' },
+      { hid: 'og:title', property: 'og:title', content: '么耶咩咩咩按钮站' },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー'
+        content: '咩老师的声音按钮站'
       },
       { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
@@ -112,7 +112,7 @@ export default {
     workbox: {
       runtimeCaching: [
         {
-          urlPattern: 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/*'
+          urlPattern: 'https://cdn.jsdelivr.net/gh/cyame/myemie-button@main/static/voices/*'
         }
       ]
     }

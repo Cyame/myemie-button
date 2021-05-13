@@ -1,27 +1,18 @@
-# Kanata-Button - Amane Kanata's Voice Button
+# MyeMie-Button - Mye-Mie's Voice Button
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
 
-README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | **English**
+README: [中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | **English**
 
-> Brand new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.
-
-Homepage: https://kanata.club
-
-<!-- Related Links:
-
-* [Amane Kanata's Youtube Channel](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
-* [Amane Kanata's Bilibili Channel](https://space.bilibili.com/491474048)
-* [Amane Kanata's Twitter](https://twitter.com/amanekanatach) -->
-
+> Not released yet, still working on. The whole project will be permitted once it is launched.
 
 ## Contributing
 
 If you don't know how to participate on GitHub, you can directly send voice clips or suggestions to [Developer Email](mailto:13626941473@qq.com) with title, content and your social ID(Twitter, Bilibili or so on). We will add your ID to the contributors list below.
 
-Also you can submit [Issues](https://github.com/copperion/kanata-button/issues) to upload audio clips.
+Also you can submit [Issues](https://github.com/Cyame/myemie-button/issues) to upload audio clips.
 
 If you can do some programming, just fork this repository and modify it. After you have done, just open a Pull Request. For detailed information, please read below.
 
@@ -57,65 +48,37 @@ To deploy a local development environment, first install the latest version of N
 
 ## Contributors
 
-Development:
+This repository is forked from [aqua-button](https://github.com/lonelyion/aqua-button), thanks to the developers of the original project.
 
-- [Lonely Ion](https://github.com/lonelyion)
-- [Asrui Morus](https://github.com/Morxi)
-
-Sub-Development & Operation:
+Fork-Development & Operation:
 
 - [Cyame](https://github.com/Cyame)
 
 Audio Editors:
 
-- Bilibili 风之门
-- Bilibili キルケー
-- Bilibili 魂喵
+- Bilibili [茶目](https://space.bilibili.com/2265912)
+- Bilibili [小岩井Kana](https://space.bilibili.com/549256426)
 
 Translation:
 
-- Bilibili ★AYO★
-- Bilibili [森绮](https://space.bilibili.com/6140610)
-- Bilibili [ものもー](https://space.bilibili.com/2921731)
-- Bilibili [鱼板](https://space.bilibili.com/39261924)
+- Bilibili [小岩井Kana](https://space.bilibili.com/549256426)
 - GitHub [茶目](https://github.com/Cyame)
 
-Illust:
-
-- Bilibili [Dazeroyuu](https://space.bilibili.com/463153)
 
 Special Thanks to:
 
-- [VTuber Music](https://vtbmusic.com/)
-- - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
-- Bilibili [AmaneKanata Pottery Factory](https://space.bilibili.com/54139629)
-- [天音梧桐](https://space.bilibili.com/31565151)
-- And those who contributed to this project on GitHub
+Those who contributed to this project on GitHub
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=Cyame/myemie-button)](https://github.com/Cyame/myemie-button/graphs/contributors)
 
 ## LICENCE
 
 <!-- Audio: According to the [Hololive Secondary Creation Terms](https://www.hololive.tv/terms) (Japanese only). -->
 
-Other parts: [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
+Other parts: [GNU GPL-3.0](https://github.com/Cyame/myemie-button/blob/master/LICENSE)
 
-This project is a work of enthusiasts and is not related to the Hololive official.
+This project is a work of enthusiasts and is not related to the official channel.
 
 ## 支持
 
-### BrowserStack
-
-Proudly using BrowserStack.
-
-[![](https://i.loli.net/2017/09/27/59cbc16b0f8b4.png)](https://www.browserstack.com/)
-
-> **BrowserStack** is a cloud-based cross-browser testing tool that enables developers to test their websites across various browsers on different operating systems and mobile devices, without requiring users to install virtual machines, devices or emulators.
-
-### Vercel
-
-Powered by Vercel.
-
-[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](www.vercel.com)
-
-> **​Vercel** is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+This site is statically deployed using [GitHub Pages](https://pages.github.com/).

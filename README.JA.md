@@ -1,15 +1,12 @@
-# かなたんボタン - 天音かなたのボイスボタン
+# ひつじちゃんボタン - 么耶咩咩咩のボイスボタン
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
 
-README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | **日本語** | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
+README: [中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | **日本語** | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
 
-> 新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー
-
-<!-- ホームページ https://kanata.club -->
-
+> このプロジェクトまだ建設中
 
 ## 計画中の機能
 
@@ -21,7 +18,7 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([開発者メールへ](mailto:13626941473@qq.com))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
 
-もしくは素材や意見をGitHubの[Issues](https://github.com/copperion/kanata-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
+もしくは素材や意見をGitHubの[Issues](https://github.com/Cyame/myemie-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
 
 もしGitHubでの開発方法を知っている場合は、プロジェクトをフォークして変更してください。変更が完了したら、プルリクエストしてください。各項目の編集に関しては以下に記述されています。
 
@@ -55,61 +52,35 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 ## コントリビューター
 
-開発:
 
-- [孤独のイオン](https://github.com/lonelyion)
-- [Asrui Morus](https://github.com/Morxi)
+このリポジトリは[aqua-button](https://github.com/lonelyion/aqua-button)のフォークリポジトリです、元リポジトリの開発者の方々にお感謝をします。
+
+二次開発と運営:
+
+- GitHub [茶目](https://github.com/Cyame)
 
 オーディオクリップ：
 
-- Bilibili 风之门
-- Bilibili キルケー
-- Bilibili 魂喵
+- Bilibili [茶目](https://space.bilibili.com/2265912)
+- Bilibili [小岩井Kana](https://space.bilibili.com/549256426)
 
 翻訳：
 
-- Bilibili ★AYO★
-- Bilibili [森绮](https://space.bilibili.com/6140610)
-- Bilibili [ものもー](https://space.bilibili.com/2921731)
-- Bilibili [鱼板](https://space.bilibili.com/39261924)
+- Bilibili [小岩井Kana](https://space.bilibili.com/549256426)
 - GitHub [茶目](https://github.com/Cyame)
 
-イラスト：
+そして、GitHubでこのリポジトリに参加した以下の方々
 
-- Bilibili [Dazeroyuu](https://space.bilibili.com/463153)
-
-特別協力：
-
-- [VTuber Music](https://vtbmusic.com)
-- Bilibili [天音かなたオフィシャル](https://space.bilibili.com/491474048)
-- Bilibili [天音彼方陶芸工場](https://space.bilibili.com/54139629)
-- [天音梧桐](https://space.bilibili.com/31565151)
-- そして、GitHubでこのプロジェクトに参加した以下の方々
-
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=Cyame/myemie-button)](https://github.com/Cyame/myemie-button/graphs/contributors)
 
 ## LICENCE
 
-プログラム： [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
+プログラム： [GNU GPL-3.0](https://github.com/Cyame/myemie-button/blob/master/LICENSE)
 
 <!-- 音声: [Hololive 二次创作条款](https://www.hololive.tv/terms) -->
 
-このプロジェクトはファンによるもので、Hololive公式は一切関係ありません
+このプロジェクトはファンによるもので、公式チャンネルと一切関係ありません
 
 ## サポート
 
-### BrowserStack
-
-Proudly using BrowserStack.
-
-[![](https://i.loli.net/2017/09/27/59cbc16b0f8b4.png)](https://www.browserstack.com/)
-
-> **BrowserStack** is a cloud-based cross-browser testing tool that enables developers to test their websites across various browsers on different operating systems and mobile devices, without requiring users to install virtual machines, devices or emulators.
-
-### Vercel
-
-Powered by Vercel.
-
-[![vercel.png](https://i.loli.net/2020/07/18/rPah8FVmqBXL6dj.png)](www.vercel.com)
-
-> **​Vercel** is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+GitHub公式がサポートするサービス[GitHub Pages](https://pages.github.com/)使用させていただきます。
