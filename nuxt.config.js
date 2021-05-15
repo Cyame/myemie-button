@@ -25,8 +25,7 @@ export default {
       {
         hid: 'keywords',
         name: 'keywords',
-        content:
-          '咩老师,咩宝,咩咩咩,么耶咩咩咩,按钮站,语音按钮,ボイスボタン'
+        content: '咩老师,咩宝,咩咩咩,么耶咩咩咩,按钮站,语音按钮,ボイスボタン'
       },
       { hid: 'og:site_name', property: 'og:site_name', content: '么耶咩咩咩按钮站' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
@@ -37,7 +36,7 @@ export default {
         property: 'og:description',
         content: '咩老师的声音按钮站'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.png' },
+      { hid: 'og:image', property: 'og:image', content: 'https://Cyame.github.io/myemie-button/img/og_common.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@Cyame' }
     ],
@@ -126,7 +125,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://kanata.club',
+    hostname: 'https://Cyame.github.io/myemie-button',
     routes: [
       {
         url: '/',
