@@ -85,7 +85,7 @@
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="$t('site.title')" />
-      <v-img src="/img/header.png" style="max-width: 30px; margin-left: 6px;" />
+      <!-- <v-img src="/img/header.png" style="max-width: 30px; margin-left: 6px;" /> -->
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
@@ -277,13 +277,13 @@ export default {
       external_cn: [
         {
           icon: 'alpha_b_box',
-          title: '天音彼方陶碗工厂',
-          to: 'https://space.bilibili.com/54139629'
+          title: '咩老师的Bilibili频道',
+          to: 'https://space.bilibili.com/2080163552'
         },
         {
           icon: 'newspaper',
-          title: '天音彼方周报',
-          to: 'https://www.bilibili.com/read/readlist/rl233589'
+          title: '咩老师的新浪微博',
+          to: 'https://weibo.com/u/7601707550'
         }
       ]
     };
