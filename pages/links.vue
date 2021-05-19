@@ -23,7 +23,19 @@ export default {
   },
   data() {
     return {
-      links: [],
+      links: [
+        {
+          title: 'myemie-bilibili-channel',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '么耶咩咩咩的Bilibili频道',
+            en: "Myemie's Bilibili Channel",
+            ja: 'ひつじちゃんのビリビリチャンネル'
+          },
+          color: 'light-blue',
+          emoji: '🐏'
+        }
+      ],
       loading: true
     };
   },
@@ -32,24 +44,7 @@ export default {
       return this.$i18n.locale;
     }
   },
-  mounted() {
-    const api = 'https://fubuki.moe/links.json';
-    this.$axios
-      .get(api)
-      .then(res => {
-        this.links = this.shuffle(
-          res.data.filter(function (el) {
-            return el.title !== 'kanata';
-          })
-        );
-      })
-      .catch(err => {
-        console.log(err);
-      })
-      .finally(() => {
-        this.loading = false;
-      });
-  },
+  mounted() {},
   methods: {
     shuffle(array) {
       //https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array

@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "彼方碳按钮",
+    "title": "么耶咩按钮",
     "description": "新生彼方碳按钮，绝赞持续建设中~",
     "index": "主页",
     "links": "友情链接",
@@ -8,8 +8,8 @@
     "switch_dark_mode": "夜间模式开关",
     "switch_language": "切换语言",
     "footer": {
-      "lonely_ion": "天音彼方陶碗工厂",
-      "oruyanke": "御宅白狐的狐笋之林",
+      "lonely_ion": "茶目",
+      "oruyanke": "小岩井Kana",
       "content": "本站为爱好者作品，和Hololive官方没有关联，STAFF名单以及项目参与方式请查看\"关于\"页面"
     }
   },
@@ -19,7 +19,7 @@
     "on_air": "正在直播",
     "loading": "直播动态获取中...",
     "no_schedule": "还没有发现正在或计划中的直播",
-    "notification": "天音彼方陶碗工厂招新中~翻轴校有能man快到碗里来!"
+    "notification": "持续建设中~"
   },
   "control": {
     "self": "播放控制",
