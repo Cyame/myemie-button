@@ -4,11 +4,13 @@
       <v-card :loading="loading">
         <v-card-title>{{ $t('site.links') }}</v-card-title>
         <v-card-text>
-          <a v-for="item in links" :key="item.title" :href="item.url" target="_blank">
-            <voice-btn :large="true" class="link-button white--text" :class="item.color" :emoji="item.emoji">
-              {{ item.tr[current_locale] }}
-            </voice-btn>
-          </a>
+          <div style="width: 768px;">
+            <a v-for="item in links" :key="item.title" :href="item.url" target="_blank">
+              <voice-btn :large="true" class="link-button white--text" :class="item.color" :emoji="item.emoji">
+                {{ item.tr[current_locale] }}
+              </voice-btn>
+            </a>
+          </div>
         </v-card-text>
       </v-card>
     </v-flex>
@@ -25,113 +27,191 @@ export default {
     return {
       links: [
         {
-          title: 'myemie-bilibili-channel1',
-          url: 'https://space.bilibili.com/2080163552',
+          title: 'sakula-bilibili-channel',
+          url: 'https://space.bilibili.com/264161',
           tr: {
             zh: 'Sakula小舞的Bilibili频道',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Sakula MAI's Bilibili Channel",
+            ja: 'さくら舞のビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          // Vuetify Color
+          color: 'pink lighten-2',
+          emoji: '🌸'
         },
         {
-          title: 'myemie-bilibili-channel2',
-          url: 'https://space.bilibili.com/2080163552',
+          title: 'sakula-weibo',
+          url: 'https://weibo.com/sakulamai',
           tr: {
             zh: 'Sakula小舞的新浪微博',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Sakula MAI's Weibo",
+            ja: 'さくら舞のブログ'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'pink lighten-2',
+          emoji: '🌸'
         },
         {
-          title: 'myemie-bilibili-channel3',
+          title: 'sakula-bilibili-live',
+          url: 'https://live.bilibili.com/837039',
+          tr: {
+            zh: 'Sakula小舞的直播间',
+            en: "Sakula MAI's Bilibili Livestream",
+            ja: 'さくら舞の配信場所'
+          },
+          color: 'pink lighten-2',
+          emoji: '🌸'
+        },
+        {
+          title: 'saku-bilibili-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '兰笛Saku的Bilibili频道',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Saku's Bilibili Channel",
+            ja: 'さくちゃんのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'indigo darken-4',
+          emoji: '🧝‍'
         },
         {
-          title: 'myemie-bilibili-channel4',
+          title: 'saku-weibo',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '兰笛Saku的新浪微博',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Saku's Weibo",
+            ja: 'さくちゃんのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'indigo darken-4',
+          emoji: '🧝'
         },
         {
-          title: 'myemie-bilibili-channel5',
+          title: 'saku-bilibili-live',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '兰笛Saku的直播间',
+            en: "Saku's Bilibili Channel",
+            ja: 'さくちゃんのビリビリ配信場所'
+          },
+          color: 'indigo darken-4',
+          emoji: '🧝'
+        },
+        {
+          title: 'yuiyy-bilibili-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '鱼一YY的Bilibili频道',
             en: "Myemie's Bilibili Channel",
             ja: 'ひつじちゃんのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'blue-grey darken-3',
+          emoji: '🐟'
         },
         {
-          title: 'myemie-bilibili-channel6',
+          title: 'yuiyy-weibo',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '鱼一YY的新浪微博',
+            en: "Myemie's Bilibili Channel",
+            ja: 'ひつじちゃんのビリビリチャンネル'
+          },
+          color: 'blue-grey darken-3',
+          emoji: '🐟'
+        },
+        {
+          title: 'yuiyy-bilibili-live',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '鱼一YY的Bilibili直播间',
+            en: "Myemie's Bilibili Channel",
+            ja: 'ひつじちゃんのビリビリ配信場所'
+          },
+          color: 'blue-grey darken-3',
+          emoji: '🐟'
+        },
+        {
+          title: 'douya-bilibili-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '小豆芽爱雪璃的Bilibili频道',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Sherri's Bilibili Channel",
+            ja: 'シェリーのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'light-green darken-2',
+          emoji: '🌱'
         },
         {
-          title: 'myemie-bilibili-channel7',
+          title: 'douya-weibo',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '小豆芽爱雪璃的Bilibili频道',
+            en: "Sherri's Bilibili Channel",
+            ja: 'シェリーのブログ'
+          },
+          color: 'light-green darken-2',
+          emoji: '🌱'
+        },
+        {
+          title: 'douya-bilibili-live',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '小豆芽爱雪璃的Bilibili直播间',
+            en: "Sherri's Bilibili Channel",
+            ja: 'シェリーのビリビリ配信場所'
+          },
+          color: 'light-green darken-2',
+          emoji: '🌱'
+        },
+        {
+          title: 'nicole-bilibili-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '夏南柯Nicole的Bilibili频道',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Nicole's Bilibili Channel",
+            ja: 'Nicoleのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'light-blue darken-2',
+          emoji: '🎸'
         },
         {
-          title: 'myemie-bilibili-channel8',
+          title: 'nicole-bilibili-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: '夏南柯Nicole的新浪微博',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Nicole's Bilibili Channel",
+            ja: 'Nicoleのビリビリチャンネル'
           },
-          color: 'light-blue',
-          emoji: '🐏'
+          color: 'light-blue darken-2',
+          emoji: '🎸'
         },
         {
-          title: 'myemie-bilibili-channel9',
+          title: 'nicole-bilibili-channel',
+          url: 'https://space.bilibili.com/2080163552',
+          tr: {
+            zh: '夏南柯Nicole的Bilibili直播间',
+            en: "Nicole's Bilibili Channel",
+            ja: 'Nicoleのビリビリ配信場所'
+          },
+          color: 'light-blue darken-2',
+          emoji: '🎸'
+        },
+        {
+          title: 'bambi-youtube-channel',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: 'Bambi的YouTube频道',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Bambi's Bilibili Channel",
+            ja: 'Bambiのビリビリチャンネル'
           },
-          color: 'light-blue',
+          color: 'red darken-4',
           emoji: '🦌'
         },
         {
-          title: 'myemie-bilibili-channel10',
+          title: 'bambi-twitter-homepage',
           url: 'https://space.bilibili.com/2080163552',
           tr: {
             zh: 'Bambi的Twitter主页',
-            en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            en: "Bambi's Twitter Timeline",
+            ja: 'Bambiのツイッター'
           },
-          color: 'light-blue',
+          color: 'red darken-4',
           emoji: '🦌'
         }
       ],

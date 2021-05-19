@@ -84,8 +84,8 @@
       app
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
+      <v-img src="/img/header.png" style="max-width: 30px; margin-left: 6px; margin-top: 2px; margin-right: 6px;" />
       <v-toolbar-title v-text="$t('site.title')" />
-      <!-- <v-img src="/img/header.png" style="max-width: 30px; margin-left: 6px;" /> -->
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
@@ -128,19 +128,19 @@
           <div style="vertical-align: middle;">
             <span>&copy; {{ new Date().getFullYear() }} </span>
             <span>
-              <a href="https://github.com/lonelyion" target="_blank" rel="noreferrer">
-                {{ $t('site.footer.lonely_ion') }}
+              <a href="https://github.com/Cyame" target="_blank" rel="noreferrer">
+                {{ $t('site.footer.author') }}
               </a>
             </span>
             <span>
               &
-              <a href="https://github.com/oruyanke" target="_blank" rel="noreferrer">
-                {{ $t('site.footer.oruyanke') }}
+              <a href="https://space.bilibili.com/549256426" target="_blank" rel="noreferrer">
+                {{ $t('site.footer.contributor') }}
               </a>
             </span>
             <v-btn
               icon
-              href="https://github.com/oruyanke/kanata-button"
+              href="https://github.com/Cyame/myemie-button"
               target="_blank"
               style="vertical-align: middle;"
               rel="noreferrer"
@@ -149,10 +149,10 @@
             </v-btn>
           </div>
           <div>
-            <span>Powered by</span>
-            <a href="https://www.vercel.com/?utm_source=vbuposc&utm_campaign=oss" target="_blank" rel="noreferrer">
+            <a href="https://t.bilibili.com/topic/19707571/feed"><span># 咩有二创 #</span></a>
+            <!-- <a href="https://www.vercel.com/?utm_source=vbuposc&utm_campaign=oss" target="_blank" rel="noreferrer">
               <img :src="vercel_logo" alt="vercel" height="16px" />
-            </a>
+            </a> -->
           </div>
           <div>
             <p>{{ $t('site.footer.content') }}</p>
@@ -183,10 +183,10 @@ $blur-function: blur(3px);
 }
 // header颜色
 .gradient-header-light {
-  background-image: linear-gradient(120deg, #1a237e 0%, #5c6bc0 100%) !important;
+  background-image: linear-gradient(120deg, #1976d2 0%, #4fc3f7 100%) !important;
 }
 .gradient-header-dark {
-  background-image: linear-gradient(120deg, #5b7e91 0%, #44617b 100%) !important;
+  background-image: linear-gradient(120deg, #0d47a1 0%, #01579b 100%) !important;
 }
 .nav-drawer-img {
   width: auto;
@@ -223,6 +223,7 @@ a {
 }
 .footer {
   margin-top: -150px;
+  margin-bottom: 0px;
 }
 </style>
 
@@ -236,7 +237,9 @@ import {
   mdiGithub,
   mdiNewspaper,
   mdiAlphaBBox,
-  mdiPlaylistStar
+  mdiPlaylistStar,
+  mdiSinaWeibo,
+  mdiVideoBox
 } from '@mdi/js';
 
 export default {
@@ -253,6 +256,8 @@ export default {
         github: mdiGithub,
         newspaper: mdiNewspaper,
         alpha_b_box: mdiAlphaBBox,
+        sina_weibo: mdiSinaWeibo,
+        video_box: mdiVideoBox,
         play_list_star: mdiPlaylistStar
       },
       drawer: false,
@@ -281,9 +286,14 @@ export default {
           to: 'https://space.bilibili.com/2080163552'
         },
         {
-          icon: 'newspaper',
+          icon: 'sina_weibo',
           title: '咩老师的新浪微博',
           to: 'https://weibo.com/u/7601707550'
+        },
+        {
+          icon: 'video_box',
+          title: '咩老师的Bilibili直播间',
+          to: 'https://live.bilibili.com/23033773'
         }
       ]
     };

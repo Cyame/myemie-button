@@ -1,16 +1,16 @@
 {
   "site": {
-    "title": "Kanata Button",
-    "description": "Brand-new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.\n",
+    "title": "Myemie Button",
+    "description": "Voice Button site and Unofficial Fan Homepage for MyeMie. Monthly Updating.",
     "index": "Home",
     "links": "Links",
     "about": "About",
     "switch_dark_mode": "Switch Dark Mode",
     "switch_language": "Switch Language",
     "footer": {
-      "lonely_ion": "AmaneKanata Pottery Factory",
-      "oruyanke": "Oruyanke Team",
-      "content": "This site is a fan work and is not associated with the Hololive official. For staff and more information, please see \"About\" page."
+      "author": "Cyame",
+      "contributor": "Koiwai Kana",
+      "content": "This site is a fan work and is not associated with the official channel. For staff and more information, please see \"About\" page."
     }
   },
   "live": {
@@ -19,7 +19,7 @@
     "on_air": "LIVE NOW",
     "loading": "Fetching live data...",
     "no_schedule": "No scheduled live is found.",
-    "notification": "Glad to meet you @Kanata Button"
+    "notification": "Glad to meet you @Myemie button"
   },
   "control": {
     "self": "Player Control",
@@ -30,8 +30,8 @@
     "overlap": "Overlap Mode",
     "random": "Random Mode",
     "repeat": "Repeat Mode",
-    "full_name": "Amane Kanata",
-    "overlap_title": "Multiple Kanata Voices"
+    "full_name": "Myemie",
+    "overlap_title": "Multiple Myemie Voices"
   },
   "dev": {
     "title": "Development Mode",

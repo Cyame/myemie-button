@@ -188,7 +188,7 @@ export default {
   computed: {
     voice_host() {
       if (process.env.NODE_ENV === 'production')
-        return 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/';
+        return 'https://cdn.jsdelivr.net/gh/Cyame/myemie-button@main/static/voices/';
       else return '/voices/';
     },
     dark_text() {
@@ -199,8 +199,8 @@ export default {
     voice_button_color() {
       // 按钮颜色
       return {
-        'light-blue darken-4': this.$vuetify.theme.dark,
-        'indigo lighten-2 white--text': !this.$vuetify.theme.dark
+        'blue-grey darken-1': this.$vuetify.theme.dark,
+        'light-blue lighten-4 dark--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
@@ -210,7 +210,7 @@ export default {
       return [this.$vuetify.theme.dark ? 'indigo darken-1' : 'white'];
     },
     speed_dial_color: function () {
-      return [this.$vuetify.theme.dark ? 'indigo' : 'indigo accent-1'];
+      return [this.$vuetify.theme.dark ? 'teal darken-2' : 'teal lighten-2'];
     },
     current_locale() {
       return this.$i18n.locale;
@@ -233,21 +233,21 @@ export default {
   },
   methods: {
     async fetch_live_data() {
-      const query_url = 'https://api.konkon.icu/v1/live';
-      const channel = 29; // HoloAPI ID
-      this.$axios
-        .get(query_url, { params: { channel_id: channel } })
-        .then(res => {
-          this.lives = res.data.live;
-          this.upcoming_lives = res.data.upcoming;
-          this.upcoming_lives.sort((a, b) => {
-            return a.live_schedule > b.live_schedule ? 1 : -1;
-          });
-        })
-        .catch(err => {
-          console.log(err);
-        })
-        .finally(() => (this.lives_loading = false));
+      // const query_url = 'https://api.konkon.icu/v1/live';
+      // const channel = 29; // HoloAPI ID
+      // this.$axios
+      //   .get(query_url, { params: { channel_id: channel } })
+      //   .then(res => {
+      //     this.lives = res.data.live;
+      //     this.upcoming_lives = res.data.upcoming;
+      //     this.upcoming_lives.sort((a, b) => {
+      //       return a.live_schedule > b.live_schedule ? 1 : -1;
+      //     });
+      //   })
+      //   .catch(err => {
+      //     console.log(err);
+      //   })
+      //   .finally(() => (this.lives_loading = false));
     },
     format_time(stamp) {
       return require('dayjs')(stamp).format('YYYY/M/DD HH:mm');
@@ -341,7 +341,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title'),
-      link: [{ rel: 'canonical', href: 'https://kanata.club' }]
+      link: [{ rel: 'canonical', href: 'https://myemie.cyame.club' }]
     };
   }
 };
