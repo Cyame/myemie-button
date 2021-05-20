@@ -1,12 +1,20 @@
-# MyeMie-Button - Mye-Mie's Voice Button
 
-![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
+<p align="center"><img src=https://i.loli.net/2021/05/20/BQKmfYadwsbetWj.jpg width=200/></p>
+
+<div align="center">
+
+# MyeMie-Button - Mye-Mie's Voice Button
+</div>
+
+<p align="center"><img src="https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square" alt="Version" />
+<img src="https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square" alt="Last Commit" />
+<img src="https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square" alt="Stars" /></p>
+<div align="center">
+</div>
 
 README: [中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | **English**
 
-> Not released yet, still working on. The whole project will be permitted once it is launched.
+> Release 1.4
 
 ## Contributing
 

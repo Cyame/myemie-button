@@ -1,15 +1,27 @@
-# 咩咩按钮站 / MYEMIE-BUTTON
 
-![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
+<p align="center"><img src=https://i.loli.net/2021/05/20/BQKmfYadwsbetWj.jpg width=200/></p>
+
+<div align="center">
+
+# 咩咩按钮站 / MYEMIE-BUTTON
+</div>
+
+<p align="center"><img src="https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square" alt="Version" />
+<img src="https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square" alt="Last Commit" />
+<img src="https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square" alt="Stars" /></p>
+<div align="center">
+</div>
+
 
 README: **中文** | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
 
+---
+
 > 么耶咩咩咩的粉丝向声音按钮主页
 
-### 目前仍在维护中，未添加或修改原仓库内容。在发布前会取得授权，敬请期待！
+正式上线啦！目前运行1.4版本!
 
+---
 
 相关链接:
 
@@ -18,30 +30,6 @@ README: **中文** | [日本語](https://github.com/Cyame/myemie-button/blob/mas
 - [么耶咩咩咩 的 新浪微博](https://weibo.com/u/7601707550)
 
 - [么耶咩咩咩 的 Bilibili直播间](https://live.bilibili.com/23033773)
-
-- [Sakula小舞 的 Bilibili频道](https://space.bilibili.com/264161)
-
-- [Sakula小舞 的 新浪微博](https://weibo.com/sakulamai)
-
-- [兰笛Saku 的 Bilibili频道](https://space.bilibili.com/381439252)
-
-- [兰笛Saku 的 新浪微博](https://weibo.com/u/7599721451)
-
-- [鱼一YY 的 Bilibili频道](https://space.bilibili.com/1308967115)
-
-- [鱼一YY 的 新浪微博](https://weibo.com/u/1763659747)
-
-- [小豆芽爱雪璃 的 Bilibili频道](https://space.bilibili.com/323153)
-
-- [小豆芽爱雪璃 的 新浪微博](https://weibo.com/u/6332902309)
-
-- [夏南柯Nicole 的 Bilibili频道](https://space.bilibili.com/1689182622)
-
-- [夏南柯Nicole 的 新浪微博](https://weibo.com/u/7600515328)
-
-- [Bambi🦌 的 YouTube频道](https://www.youtube.com/c/BambiChannel)
-
-- [Bambi🦌 的 Twitter主页](https://twitter.com/bambi_0812)
 
 ## 参与完善本项目
 

@@ -29,14 +29,14 @@ export default {
       },
       { hid: 'og:site_name', property: 'og:site_name', content: '么耶咩咩咩按钮站' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://dev.myemie.cyame.club' },
+      { hid: 'og:url', property: 'og:url', content: 'https://myemie.cyame.club' },
       { hid: 'og:title', property: 'og:title', content: '么耶咩咩咩按钮站' },
       {
         hid: 'og:description',
         property: 'og:description',
         content: '咩老师的声音按钮站'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://dev.myemie.cyame.club/img/og_common.png' },
+      { hid: 'og:image', property: 'og:image', content: 'https://myemie.cyame.club/img/og_common.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@Cyame' }
     ],
@@ -125,7 +125,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://dev.myemie.cyame.club',
+    hostname: 'https://myemie.cyame.club',
     routes: [
       {
         url: '/',

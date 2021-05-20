@@ -1,12 +1,24 @@
+<p align="center"><img src=https://i.loli.net/2021/05/20/BQKmfYadwsbetWj.jpg width=200/></p>
+
+<div align="center">
+
 # ひつじちゃんボタン - 么耶咩咩咩のボイスボタン
+</div>
 
-![Version](https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square)
+<p align="center"><img src="https://img.shields.io/github/package-json/v/Cyame/myemie-button?style=flat-square" alt="Version" />
+<img src="https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square" alt="Last Commit" />
+<img src="https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square" alt="Stars" /></p>
+<div align="center">
+</div>
 
-README: [中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | **日本語** | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
+> リリースをしました！バージョン1.4運営中！
 
-> このプロジェクトまだ建設中
+
+- [么耶咩咩咩 的 Bilibili频道](https://space.bilibili.com/2080163552)
+
+- [么耶咩咩咩 的 新浪微博](https://weibo.com/u/7601707550)
+
+- [么耶咩咩咩 的 Bilibili直播间](https://live.bilibili.com/23033773)
 
 ## 計画中の機能
 
