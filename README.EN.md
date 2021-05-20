@@ -10,11 +10,26 @@
 <img src="https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square" alt="Last Commit" />
 <img src="https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square" alt="Stars" /></p>
 <div align="center">
+
+[中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | **English**
+
+*Myemie's Voice Button Site*
+
 </div>
 
-README: [中文](https://github.com/Cyame/myemie-button/blob/master/README.md) | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | **English**
+---
 
 > Release 1.4
+
+---
+
+相关链接:
+
+- [么耶咩咩咩 的 Bilibili频道](https://space.bilibili.com/2080163552)
+
+- [么耶咩咩咩 的 新浪微博](https://weibo.com/u/7601707550)
+
+- [么耶咩咩咩 的 Bilibili直播间](https://live.bilibili.com/23033773)
 
 ## Contributing
 

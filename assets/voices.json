@@ -23,7 +23,7 @@
           "description": {
             "zh": "*自我介绍*",
             "ja": "自己紹介",
-            "en": "Empty"
+            "en": "*Self-intro*"
           }
         },
         {
@@ -32,7 +32,7 @@
           "description": {
             "zh": "你们醒着吗？",
             "ja": "まだ寝てないの？",
-            "en": "Empty"
+            "en": "Are you guys still awake?"
           }
         },
         {
@@ -41,7 +41,7 @@
           "description": {
             "zh": "起床啦！",
             "ja": "起きて！",
-            "en": "Empty"
+            "en": "Get up!"
           }
         },
         {
@@ -50,7 +50,7 @@
           "description": {
             "zh": "希望能够给大家带来更多的欢乐",
             "ja": "皆さんにもっと喜びを",
-            "en": "Empty"
+            "en": "I hope I could bring you happiness"
           }
         },
         {
@@ -59,7 +59,7 @@
           "description": {
             "zh": "祝今天过生日的朋友们生日快乐！",
             "ja": "今日が誕生日の皆さん、おめでとうございます！",
-            "en": "Empty"
+            "en": "Wish all my friends who celebrate birthday today: Happy birthday!"
           }
         },
         {
@@ -68,7 +68,7 @@
           "description": {
             "zh": "祝你生日快乐 祝今天过生日的所有人生日快乐",
             "ja": "誕生日おめでとう！今日が誕生日の皆にもおめでとう！",
-            "en": "Empty"
+            "en": "Happy birthday to you and to all who has birthday today"
           }
         },
         {
@@ -77,7 +77,7 @@
           "description": {
             "zh": "晚安 1",
             "ja": "お休み 1",
-            "en": "nan 1"
+            "en": "Good-night 1"
           }
         },
         {
@@ -86,7 +86,7 @@
           "description": {
             "zh": "以后希望能给大家带来快乐",
             "ja": "これからも皆さんに幸せを運ぶように",
-            "en": "Empty"
+            "en": "I wanna bring you guys happiness"
           }
         },
         {
@@ -95,7 +95,7 @@
           "description": {
             "zh": "晚安啦！",
             "ja": "お休みよ",
-            "en": "Empty"
+            "en": "Good night!"
           }
         },
         {
@@ -104,7 +104,7 @@
           "description": {
             "zh": "晚安 2",
             "ja": "お休み 2",
-            "en": "nan 2"
+            "en": "Good night 2"
           }
         },
         {
@@ -113,7 +113,7 @@
           "description": {
             "zh": "早点睡觉",
             "ja": "早く寝よう",
-            "en": "Empty"
+            "en": "Have an early night"
           }
         }
       ]
@@ -132,7 +132,7 @@
           "description": {
             "zh": "我跟她睡过吗？",
             "ja": "彼女と寝たことはあるのか？",
-            "en": "Empty"
+            "en": "Did I sleep with her?"
           }
         },
         {
@@ -141,7 +141,7 @@
           "description": {
             "zh": "小舞老师家床很大",
             "ja": "舞先生の家、ベッドが大きい",
-            "en": "Empty"
+            "en": "(meme)Mai Sensei's bed is so big"
           }
         },
         {
@@ -150,7 +150,7 @@
           "description": {
             "zh": "sa~ku~",
             "ja": "sa~ku~",
-            "en": "Empty"
+            "en": "Sa~ku~"
           }
         },
         {
@@ -159,7 +159,7 @@
           "description": {
             "zh": "saku听到土就冒出来了",
             "ja": "ダサいと聞くなりsakuは現れる",
-            "en": "Empty"
+            "en": "Saku got out when hear the countrified slang"
           }
         },
         {
@@ -168,7 +168,7 @@
           "description": {
             "zh": "saku出土了",
             "ja": "sakuは姿をダサた",
-            "en": "Empty"
+            "en": "Saku got out of the dust"
           }
         },
         {
@@ -177,7 +177,7 @@
           "description": {
             "zh": "saku到你了",
             "ja": "sakuの番だよ",
-            "en": "Empty"
+            "en": "Saku it's your turn"
           }
         },
         {
@@ -186,7 +186,7 @@
           "description": {
             "zh": "我今天想到了给saku的新昵称",
             "ja": "sakuの新しいニックネームを思いついた",
-            "en": "Empty"
+            "en": "I came up with a new nickname for saku"
           }
         },
         {
@@ -195,7 +195,7 @@
           "description": {
             "zh": "极乐净土",
             "ja": "極楽浄土",
-            "en": "Empty"
+            "en": "Gokuraku-Joudo"
           }
         },
         {
@@ -204,7 +204,7 @@
           "description": {
             "zh": "小舞老师 整活滴神",
             "ja": "舞先生、お笑いの神",
-            "en": "Empty"
+            "en": "So interesting sensei MAI is"
           }
         },
         {
@@ -213,7 +213,7 @@
           "description": {
             "zh": "我当然喜欢你啦saku 么么哒",
             "ja": "もちろん好きだよsakuちゃん、ムマ",
-            "en": "Empty"
+            "en": "Of course I love you Saku"
           }
         },
         {
@@ -222,7 +222,7 @@
           "description": {
             "zh": "saku 出来啦",
             "ja": "saku現れた",
-            "en": "Empty"
+            "en": "Saku's here"
           }
         },
         {
@@ -231,7 +231,7 @@
           "description": {
             "zh": "saku真的很可爱",
             "ja": "saku本当にかわいい",
-            "en": "Empty"
+            "en": "Saku is a really cuttie"
           }
         },
         {
@@ -240,7 +240,7 @@
           "description": {
             "zh": "鱼神的配音秘事",
             "ja": "魚一のアフレコ秘事",
-            "en": "Empty"
+            "en": "God Fish's CV secret"
           }
         },
         {
@@ -249,7 +249,7 @@
           "description": {
             "zh": "舞爷1米8",
             "ja": "舞様身長1.8メートルだよ",
-            "en": "Empty"
+            "en": "Mai bro is 6-feet tall"
           }
         },
         {
@@ -258,7 +258,7 @@
           "description": {
             "zh": "斑比的眼睛是真滴大",
             "ja": "バンビーは目が大きいな",
-            "en": "Empty"
+            "en": "Bambi has lovely eyes"
           }
         },
         {
@@ -267,7 +267,7 @@
           "description": {
             "zh": "啊 saku宝贝 在哪里",
             "ja": "あ、sakuちゃん、どこ？",
-            "en": "Empty"
+            "en": "Ah where's my daring saku"
           }
         },
         {
@@ -276,7 +276,7 @@
           "description": {
             "zh": "saku出土啦",
             "ja": "sakuは姿をダサたな",
-            "en": "Empty"
+            "en": "Saku is getting out of the dust"
           }
         },
         {
@@ -285,7 +285,7 @@
           "description": {
             "zh": "舞老斯",
             "ja": "舞せんせい",
-            "en": "Empty"
+            "en": "Mai Sensei"
           }
         },
         {
@@ -294,7 +294,7 @@
           "description": {
             "zh": "小舞最可爱啦",
             "ja": "舞ちゃん世界一可愛いよ",
-            "en": "Empty"
+            "en": "mai is the cutest one in the world"
           }
         }
       ]
@@ -313,7 +313,7 @@
           "description": {
             "zh": "*译制腔*哦我的老伙计 先凑和着听吧",
             "ja": "*洋画風*友よ、我慢して聞こう",
-            "en": "Empty"
+            "en": "*Translationese* Oh my old friend just make listen to it"
           }
         },
         {
@@ -322,7 +322,7 @@
           "description": {
             "zh": "我的画很贵滴",
             "ja": "わたしの絵、高いよ",
-            "en": "Empty"
+            "en": "My artwork is expensive"
           }
         },
         {
@@ -331,7 +331,7 @@
           "description": {
             "zh": "*方言*快乐星球是什么",
             "ja": "*方言*快楽惑星って何？",
-            "en": "Empty"
+            "en": "*Dialect*Where's the happy planet?"
           }
         },
         {
@@ -340,7 +340,7 @@
           "description": {
             "zh": "*方言*你搞什么啊",
             "ja": "*方言*何やってんの",
-            "en": "Empty"
+            "en": "*Dialect* What're you doing?"
           }
         },
         {
@@ -349,7 +349,7 @@
           "description": {
             "zh": "*译制片*哦 我的上帝 你连营业声线都不知道么",
             "ja": "*洋画風*神よ、あんた、営業",
-            "en": "Empty"
+            "en": "*Translationese* Oh my god Don't you know I could change my tone?"
           }
         },
         {
@@ -358,7 +358,7 @@
           "description": {
             "zh": "*译制片*哦你这只土拨鼠 我只想踢你的屁股",
             "ja": "*洋画風*このタルバガンめ、あんたの尻を蹴りたくなったな",
-            "en": "Empty"
+            "en": "Oh you shabby marmot I just wanna kick into your ass"
           }
         },
         {
@@ -367,7 +367,7 @@
           "description": {
             "zh": "*译制片*再聊十块钱的？",
             "ja": "*洋画風*まだお話したいですか？お一人様10分料金10元です。",
-            "en": "Empty"
+            "en": "*Translationese* So let's continue chatting?"
           }
         },
         {
@@ -376,7 +376,7 @@
           "description": {
             "zh": "对呀就是本音",
             "ja": "そうですよ、地声です。",
-            "en": "Empty"
+            "en": "Sure that's my common tone"
           }
         },
         {
@@ -385,7 +385,7 @@
           "description": {
             "zh": "DD要像我一样",
             "ja": "ＤＤは私にならえ",
-            "en": "Empty"
+            "en": "Simp should learn from me"
           }
         }
       ]
@@ -394,7 +394,7 @@
       "group_name": "out",
       "group_description": {
         "zh": "土味",
-        "en": "Oldschool",
+        "en": "Countrified",
         "ja": "ダサい発言"
       },
       "voice_list": [
@@ -404,7 +404,7 @@
           "description": {
             "zh": "舰长舰长欢迎你🎵",
             "ja": "艦長よ、ようこそ🎵",
-            "en": "Empty"
+            "en": "Welcome sponser🎵"
           }
         },
         {
@@ -413,7 +413,7 @@
           "description": {
             "zh": "两只老虎爱跳舞🎵",
             "ja": "二頭のトラ、ダンスが好き🎵",
-            "en": "Empty"
+            "en": "Tigers couple lovein' dance🎵"
           }
         },
         {
@@ -422,7 +422,7 @@
           "description": {
             "zh": "我害怕鬼",
             "ja": "幽霊が怖い",
-            "en": "Empty"
+            "en": "I'm in fear of ghost"
           }
         },
         {
@@ -431,7 +431,7 @@
           "description": {
             "zh": "我觉得现在说土都是蛮有意思的",
             "ja": "ダサいって言われることは面白いって言われることと同じことだと思う",
-            "en": "Empty"
+            "en": "I think I can’t help laughing once I said \"Dust\""
           }
         },
         {
@@ -440,7 +440,7 @@
           "description": {
             "zh": "我 害怕鬼2",
             "ja": "幽霊が怖い 2",
-            "en": "Empty"
+            "en": "I'm afriad of ghost"
           }
         },
         {
@@ -449,7 +449,7 @@
           "description": {
             "zh": "但鬼未伤我分毫",
             "ja": "幽霊はわたしを傷つけることはない",
-            "en": "Empty"
+            "en": "But the ghost cannot hurt me"
           }
         }
       ]
@@ -458,7 +458,7 @@
       "group_name": "romance",
       "group_description": {
         "zh": "甜言蜜语",
-        "en": "Romance",
+        "en": "Sweeties",
         "ja": "ラブラブ発言"
       },
       "voice_list": [
@@ -468,7 +468,7 @@
           "description": {
             "zh": "妈呀 么么哒",
             "ja": "ムマ",
-            "en": "Empty"
+            "en": "*Kiss*"
           }
         },
         {
@@ -477,7 +477,7 @@
           "description": {
             "zh": "么么哒爱你",
             "ja": "ムマ　すき！",
-            "en": "Empty"
+            "en": "*Kiss* Love you"
           }
         },
         {
@@ -486,7 +486,7 @@
           "description": {
             "zh": "爱你哦",
             "ja": "愛してるよ",
-            "en": "Empty"
+            "en": "Love you~"
           }
         },
         {
@@ -495,7 +495,7 @@
           "description": {
             "zh": "我很喜欢！",
             "ja": "とってもすきだ",
-            "en": "Empty"
+            "en": "I love it!"
           }
         },
         {
@@ -504,7 +504,7 @@
           "description": {
             "zh": "爱你哦 么么哒",
             "ja": "愛してるよ　ムマ",
-            "en": "Empty"
+            "en": "Love you~ Mua"
           }
         },
         {
@@ -513,7 +513,7 @@
           "description": {
             "zh": "爱你哟",
             "ja": "愛してるよ",
-            "en": "Empty"
+            "en": "I love you"
           }
         },
         {
@@ -522,7 +522,7 @@
           "description": {
             "zh": "爱你爱你爱你 么么哒",
             "ja": "すきすきすきムマ",
-            "en": "Empty"
+            "en": "Love you so much"
           }
         }
       ]
@@ -531,7 +531,7 @@
       "group_name": "voice-source",
       "group_description": {
         "zh": "音效",
-        "en": "Voice Source",
+        "en": "Voices",
         "ja": "奇声"
       },
       "voice_list": [
@@ -541,7 +541,7 @@
           "description": {
             "zh": "*咂嘴*",
             "ja": "*舌打ち*",
-            "en": "Empty"
+            "en": "*Tongue clicking*"
           }
         },
         {
@@ -550,7 +550,7 @@
           "description": {
             "zh": "*一种假笑*",
             "ja": "*そら笑い*",
-            "en": "Empty"
+            "en": "*Fake laugh*"
           }
         },
         {
@@ -559,7 +559,7 @@
           "description": {
             "zh": "*一种欢乐的笑*",
             "ja": "*面白い笑い*",
-            "en": "Empty"
+            "en": "*Big laugh*"
           }
         },
         {
@@ -568,7 +568,7 @@
           "description": {
             "zh": "*另一种欢乐的笑*",
             "ja": "*もう一種の面白い笑い*",
-            "en": "Empty"
+            "en": "*Another big laugh*"
           }
         },
         {
@@ -577,7 +577,7 @@
           "description": {
             "zh": "诶？！怎么回事？",
             "ja": "え？！どういうこと？",
-            "en": "Empty"
+            "en": "Ah? What's wrong?"
           }
         },
         {
@@ -586,7 +586,7 @@
           "description": {
             "zh": "呃……",
             "ja": "えーーーっと",
-            "en": "Empty"
+            "en": "Ummmm"
           }
         },
         {
@@ -595,7 +595,7 @@
           "description": {
             "zh": "哎哟喂",
             "ja": "うわー",
-            "en": "Empty"
+            "en": "Wha"
           }
         },
         {
@@ -604,7 +604,7 @@
           "description": {
             "zh": "嘶！",
             "ja": "えーーー",
-            "en": "Empty"
+            "en": "*Breathless*"
           }
         },
         {
@@ -613,7 +613,7 @@
           "description": {
             "zh": "哼！",
             "ja": "ふん",
-            "en": "Empty"
+            "en": "*Angry*"
           }
         },
         {
@@ -622,7 +622,7 @@
           "description": {
             "zh": "嘿嘿",
             "ja": "へへ",
-            "en": "Empty"
+            "en": "Haha"
           }
         },
         {
@@ -631,7 +631,7 @@
           "description": {
             "zh": "嘿嘿嘿",
             "ja": "へへへ",
-            "en": "Empty"
+            "en": "Hehe"
           }
         },
         {
@@ -640,7 +640,7 @@
           "description": {
             "zh": "耶！",
             "ja": "イエーイ！",
-            "en": "Empty"
+            "en": "Yeah!"
           }
         },
         {
@@ -649,7 +649,7 @@
           "description": {
             "zh": "哎！",
             "ja": "え！",
-            "en": "Empty"
+            "en": "Here!"
           }
         },
         {
@@ -658,7 +658,7 @@
           "description": {
             "zh": "哇 吼！",
             "ja": "わーほー！",
-            "en": "Empty"
+            "en": "Wha-hoo"
           }
         },
         {
@@ -667,7 +667,7 @@
           "description": {
             "zh": "*吸鼻子*",
             "ja": "鼻すすり",
-            "en": "Empty"
+            "en": "*Sniff*"
           }
         },
         {
@@ -676,7 +676,7 @@
           "description": {
             "zh": "啊！！",
             "ja": "あ！！",
-            "en": "Empty"
+            "en": "AHHHH!"
           }
         },
         {
@@ -685,7 +685,7 @@
           "description": {
             "zh": "啊 什么 啊？",
             "ja": "え、なに、え？",
-            "en": "Empty"
+            "en": "Ah What?"
           }
         },
         {
@@ -694,7 +694,7 @@
           "description": {
             "zh": "哎呀妈呀",
             "ja": "オーマイゴッド",
-            "en": "Empty"
+            "en": "OMG"
           }
         }
       ]
@@ -713,7 +713,7 @@
           "description": {
             "zh": "吐了",
             "ja": "むかついた",
-            "en": "Empty"
+            "en": "it sucks"
           }
         },
         {
@@ -722,7 +722,7 @@
           "description": {
             "zh": "真可笑",
             "ja": "おもしろいわ",
-            "en": "Empty"
+            "en": "It's so funy"
           }
         }
       ]
@@ -731,7 +731,7 @@
       "group_name": "complimentandencouragement",
       "group_description": {
         "zh": "赞赏与鼓励",
-        "en": "Compliment & Encouragement",
+        "en": "Praise & Heartening",
         "ja": "褒め言葉・励まし言葉"
       },
       "voice_list": [
@@ -741,7 +741,7 @@
           "description": {
             "zh": "不用太担心 也不用有太多的心理负担",
             "ja": "心配しなくて、ストレスも抱えなくていいよ",
-            "en": "Empty"
+            "en": "No worries no stress"
           }
         },
         {
@@ -750,7 +750,7 @@
           "description": {
             "zh": "牛啊",
             "ja": "すげー",
-            "en": "Empty"
+            "en": "Brilliant!"
           }
         },
         {
@@ -759,7 +759,7 @@
           "description": {
             "zh": "鼓掌 牛啊",
             "ja": "すげー",
-            "en": "Empty"
+            "en": "Applause"
           }
         },
         {
@@ -768,7 +768,7 @@
           "description": {
             "zh": "太牛了 我是想不到",
             "ja": "すげすぎる、及ばないほどね",
-            "en": "Empty"
+            "en": "It's so cool that I can't imagine"
           }
         },
         {
@@ -777,7 +777,7 @@
           "description": {
             "zh": "好诶！",
             "ja": "いいね！",
-            "en": "Empty"
+            "en": "Great!"
           }
         }
       ]
@@ -805,7 +805,7 @@
           "description": {
             "zh": "木大木大木大木大",
             "ja": "無駄無駄無駄無駄",
-            "en": "Empty"
+            "en": "Muda-muda-muda"
           }
         },
         {
@@ -814,7 +814,7 @@
           "description": {
             "zh": "哦啦哦啦哦啦哦啦",
             "ja": "オラオラオラオラ",
-            "en": "Empty"
+            "en": "Ola-ola-ola"
           }
         },
         {
@@ -823,7 +823,7 @@
           "description": {
             "zh": "今天的风儿真是喧嚣呢",
             "ja": "今日は風が騒がしいな",
-            "en": "Empty"
+            "en": "How uproarious the wind of today is!"
           }
         }
       ]
@@ -842,7 +842,7 @@
           "description": {
             "zh": "做DD好快乐啊",
             "ja": "単推しじゃなくてよかった",
-            "en": "Empty"
+            "en": "It's so good to be a simp"
           }
         },
         {
@@ -851,7 +851,7 @@
           "description": {
             "zh": "我的mai呀",
             "ja": "オーマイガー",
-            "en": "Empty"
+            "en": "Oh my MAI"
           }
         },
         {
@@ -860,7 +860,7 @@
           "description": {
             "zh": "比心你们都看不到",
             "ja": "今指ハートをやっても見えないね…",
-            "en": "Empty"
+            "en": "You can't see my hand heart know"
           }
         },
         {
@@ -869,7 +869,7 @@
           "description": {
             "zh": "笑死了",
             "ja": "ワロタ",
-            "en": "Empty"
+            "en": "LOL"
           }
         },
         {
@@ -878,7 +878,7 @@
           "description": {
             "zh": "算了算了 休息一下吧",
             "ja": "もういい、もういいよ、休もう",
-            "en": "Empty"
+            "en": "Just take a rest"
           }
         },
         {
@@ -887,7 +887,7 @@
           "description": {
             "zh": "哼 才不是呢",
             "ja": "ふん、違うよ",
-            "en": "Empty"
+            "en": "It's not what I meant"
           }
         },
         {
@@ -896,7 +896,7 @@
           "description": {
             "zh": "算了哥",
             "ja": "もういいよ、兄さん",
-            "en": "Empty"
+            "en": "That's enough bro"
           }
         },
         {
@@ -905,7 +905,7 @@
           "description": {
             "zh": "别了吧",
             "ja": "もういいよ",
-            "en": "Empty"
+            "en": "Just forget'bout it"
           }
         },
         {
@@ -914,7 +914,7 @@
           "description": {
             "zh": "笑死",
             "ja": "ワロタ",
-            "en": "Empty"
+            "en": "lol"
           }
         },
         {
@@ -923,7 +923,7 @@
           "description": {
             "zh": "诶？ 咋肥事儿啊？",
             "ja": "え？どゆこと？",
-            "en": "Empty"
+            "en": "What? What happened?"
           }
         },
         {
@@ -932,7 +932,7 @@
           "description": {
             "zh": "笑死我了",
             "ja": "ワロタわ",
-            "en": "Empty"
+            "en": "LMAO"
           }
         },
         {
@@ -941,7 +941,7 @@
           "description": {
             "zh": "我哭哭",
             "ja": "ぴえん",
-            "en": "Empty"
+            "en": "*sobbing*"
           }
         }
       ]

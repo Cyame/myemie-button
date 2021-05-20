@@ -62,7 +62,7 @@ export default {
         },
         {
           title: 'saku-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://space.bilibili.com/381439252',
           tr: {
             zh: '兰笛Saku的Bilibili频道',
             en: "Saku's Bilibili Channel",
@@ -73,7 +73,7 @@ export default {
         },
         {
           title: 'saku-weibo',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://www.weibo.com/u/7599721451',
           tr: {
             zh: '兰笛Saku的新浪微博',
             en: "Saku's Weibo",
@@ -84,7 +84,7 @@ export default {
         },
         {
           title: 'saku-bilibili-live',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://live.bilibili.com/23031625',
           tr: {
             zh: '兰笛Saku的直播间',
             en: "Saku's Bilibili Channel",
@@ -95,40 +95,40 @@ export default {
         },
         {
           title: 'yuiyy-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://space.bilibili.com/1308967115',
           tr: {
             zh: '鱼一YY的Bilibili频道',
             en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            ja: '么耶咩咩咩のビリビリチャンネル'
           },
           color: 'blue-grey darken-3',
           emoji: '🐟'
         },
         {
           title: 'yuiyy-weibo',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://www.weibo.com/u/1763659747',
           tr: {
             zh: '鱼一YY的新浪微博',
             en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリチャンネル'
+            ja: '么耶咩咩咩のビリビリチャンネル'
           },
           color: 'blue-grey darken-3',
           emoji: '🐟'
         },
         {
           title: 'yuiyy-bilibili-live',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://live.bilibili.com/23029299',
           tr: {
             zh: '鱼一YY的Bilibili直播间',
             en: "Myemie's Bilibili Channel",
-            ja: 'ひつじちゃんのビリビリ配信場所'
+            ja: '么耶咩咩咩のビリビリ配信場所'
           },
           color: 'blue-grey darken-3',
           emoji: '🐟'
         },
         {
           title: 'douya-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://space.bilibili.com/323153',
           tr: {
             zh: '小豆芽爱雪璃的Bilibili频道',
             en: "Sherri's Bilibili Channel",
@@ -139,9 +139,9 @@ export default {
         },
         {
           title: 'douya-weibo',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://www.weibo.com/u/6332902309',
           tr: {
-            zh: '小豆芽爱雪璃的Bilibili频道',
+            zh: '小豆芽爱雪璃的新浪微博',
             en: "Sherri's Bilibili Channel",
             ja: 'シェリーのブログ'
           },
@@ -150,7 +150,7 @@ export default {
         },
         {
           title: 'douya-bilibili-live',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://live.bilibili.com/609304',
           tr: {
             zh: '小豆芽爱雪璃的Bilibili直播间',
             en: "Sherri's Bilibili Channel",
@@ -161,7 +161,7 @@ export default {
         },
         {
           title: 'nicole-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://space.bilibili.com/1689182622',
           tr: {
             zh: '夏南柯Nicole的Bilibili频道',
             en: "Nicole's Bilibili Channel",
@@ -172,7 +172,7 @@ export default {
         },
         {
           title: 'nicole-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://www.weibo.com/u/7600515328',
           tr: {
             zh: '夏南柯Nicole的新浪微博',
             en: "Nicole's Bilibili Channel",
@@ -183,7 +183,7 @@ export default {
         },
         {
           title: 'nicole-bilibili-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://live.bilibili.com/23050938',
           tr: {
             zh: '夏南柯Nicole的Bilibili直播间',
             en: "Nicole's Bilibili Channel",
@@ -194,7 +194,7 @@ export default {
         },
         {
           title: 'bambi-youtube-channel',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://www.youtube.com/channel/UC2fHpw91UgQXhwarJIieptA',
           tr: {
             zh: 'Bambi的YouTube频道',
             en: "Bambi's Bilibili Channel",
@@ -205,7 +205,7 @@ export default {
         },
         {
           title: 'bambi-twitter-homepage',
-          url: 'https://space.bilibili.com/2080163552',
+          url: 'https://twitter.com/bambi_0812',
           tr: {
             zh: 'Bambi的Twitter主页',
             en: "Bambi's Twitter Timeline",

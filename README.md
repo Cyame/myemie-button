@@ -10,14 +10,15 @@
 <img src="https://img.shields.io/github/last-commit/Cyame/myemie-button?style=flat-square" alt="Last Commit" />
 <img src="https://img.shields.io/github/stars/Cyame/myemie-button?style=flat-square" alt="Stars" /></p>
 <div align="center">
+
+**中文** | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
+
+*么耶咩咩咩的粉丝向声音按钮主页*
+
 </div>
 
 
-README: **中文** | [日本語](https://github.com/Cyame/myemie-button/blob/master/README.JA.md) | [English](https://github.com/Cyame/myemie-button/blob/master/README.EN.md)
-
 ---
-
-> 么耶咩咩咩的粉丝向声音按钮主页
 
 正式上线啦！目前运行1.4版本!
 
